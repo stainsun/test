@@ -1,2 +1,2 @@
-# stain_test
+# test
 personal test file
